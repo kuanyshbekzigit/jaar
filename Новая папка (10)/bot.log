@@ -1,0 +1,22 @@
+2025-04-08 13:01:57,404 - __main__ - INFO - Бот басталуда...
+2025-04-08 13:01:57,406 - __main__ - INFO - BOT_TOKEN loaded successfully
+2025-04-08 13:01:57,650 - __main__ - INFO - Бот инициализациясы сәтті аяқталды
+2025-04-08 13:01:57,651 - __main__ - INFO - Бот басталуда...
+2025-04-08 13:01:57,651 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-04-08 13:01:57,652 - __main__ - INFO - Бот іске қосылуда...
+2025-04-08 13:01:57,652 - __main__ - INFO - Polling басталды
+2025-04-08 13:01:57,652 - aiogram.dispatcher - INFO - Start polling
+2025-04-08 13:01:58,156 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-08 13:01:58,408 - __main__ - ERROR - Polling қатесі: Telegram server says - Unauthorized
+2025-04-08 13:01:58,409 - __main__ - ERROR - Негізгі қате: Telegram server says - Unauthorized
+2025-04-08 13:02:44,904 - __main__ - INFO - Бот басталуда...
+2025-04-08 13:02:44,905 - __main__ - INFO - BOT_TOKEN loaded successfully
+2025-04-08 13:02:45,162 - __main__ - INFO - Бот инициализациясы сәтті аяқталды
+2025-04-08 13:02:45,163 - __main__ - INFO - Бот басталуда...
+2025-04-08 13:02:45,163 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-04-08 13:02:45,164 - __main__ - INFO - Бот іске қосылуда...
+2025-04-08 13:02:45,164 - __main__ - INFO - Polling басталды
+2025-04-08 13:02:45,164 - aiogram.dispatcher - INFO - Start polling
+2025-04-08 13:02:45,610 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-08 13:02:45,858 - __main__ - ERROR - Polling қатесі: Telegram server says - Unauthorized
+2025-04-08 13:02:45,860 - __main__ - ERROR - Негізгі қате: Telegram server says - Unauthorized
